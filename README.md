@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi 👋 ! My name is Demir and I'm a Backend Developer<br>
+Hi 👋 ! My name is Batuhan and I'm a Software Developer<br>
 
 
 ## 🌐 Socials:
