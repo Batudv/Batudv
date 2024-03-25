@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 ! My name is Batuhan and I'm Computer Programming student at Usak University. I'm currently learning new things with the aim of becoming a frontend developer and working on enhancing my skills.
+Hi 👋 ! My name is Batuhan and I'm Computer Programming student at Usak University. I'm currently learning new things with the aim of becoming a frontend developer and working on improving my skills.
 
 
 ## 🌐 Socials:
